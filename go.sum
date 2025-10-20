@@ -1,0 +1,4 @@
+github.com/tj330/link v0.0.0-20251002084506-b9ba8be876f3 h1:6FiXnKSJ5PUVhG/MC3E9iluS6tzByv7mgVyJ8deboTg=
+github.com/tj330/link v0.0.0-20251002084506-b9ba8be876f3/go.mod h1:wej1tyRK56JmTW/c7lWxYQVLZY8NgXdmYx8kn5Rb/kk=
+golang.org/x/net v0.44.0 h1:evd8IRDyfNBMBTTY5XRF1vaZlD+EmWx6x8PkhR04H/I=
+golang.org/x/net v0.44.0/go.mod h1:ECOoLqd5U3Lhyeyo/QDCEVQ4sNgYsqvCZ722XogGieY=
